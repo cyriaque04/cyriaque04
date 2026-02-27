@@ -1,4 +1,4 @@
-## About me
+## 🚀 About me
 
 I am a Master’s student in Applied Mathematics for Finance at Université Paris 1 Panthéon-Sorbonne.  
 My academic background focuses on probability theory, statistics, optimization, and numerical methods, with applications to financial markets.
@@ -7,47 +7,36 @@ I am particularly interested in quantitative finance, risk modeling, derivative 
 
 ---
 
-## What you will find in this repository
+## 📜 What you will find in this repository
 
-This repository gathers academic and personal projects related to applied mathematics and quantitative finance, including:
+This repository currently gathers a limited set of projects, including:
 
-- Statistical analysis and probabilistic modeling  
-- Financial data analysis and visualization  
-- Risk measures such as Value at Risk and Expected Shortfall  
-- Numerical methods and simulations (Monte Carlo, optimization)  
-- Machine learning applications to finance and economics  
+- A hackathon project developed under time constraints  
+- A machine learning project completed as part of my Master’s program  
+- Personal projects exploring applied mathematics, data analysis, and modeling  
 
-Projects are mainly implemented in **Python**
+The scope of the repository will expand over time to include more advanced projects in quantitative finance and applied mathematics.
 
 
 
 ---
 
-## Selected project: Akrasia
+## 🥉 Selected project: Akrasia
 
-**Akrasia** is a project developed during a hackathon, where my team ranked **3rd out of 28 teams**.
+**Akrasia** is a productivity app developed during an 8-hour hackathon, where my team ranked **3rd out of 28 teams**.
 
-The project focused on building a solution aimed at improving productivity and decision-making by addressing behavioral biases related to self-control and consistency over time.  
-My contribution involved problem formulation, quantitative reasoning, and the implementation of core logic in Python.
+The application is designed to enforce accountability through commitment. Users create tasks and attach a monetary stake to each one. If a deadline is missed, the money is transferred to a shared pool. A ranking system is used to introduce competition and gamification among participants.
 
-This experience allowed me to work under strong time constraints, translate abstract ideas into a concrete product, and collaborate efficiently in a competitive environment.
+The project explores motivation through commitment mechanisms and social pressure. My contribution focused on problem formulation, quantitative reasoning around incentives, and the implementation of the core logic in Python under strong time constraints.
 
 ---
 
-## Background
+## 📚 Background
 
 - MSc in Applied Mathematics for Finance (MAEF), Université Paris 1 Panthéon-Sorbonne  
 - BSc in Applied Mathematics and Economics (MIASHS)
 - Experience with Python for data analysis and modeling  
 
----
-
-## Current focus
-
-- Deepening my understanding of financial markets and derivatives  
-- Building end-to-end quantitative finance projects  
-- Strengthening numerical and statistical modeling skills  
-- Preparing for internships in quantitative finance and risk-related roles  
 
 ---
 
