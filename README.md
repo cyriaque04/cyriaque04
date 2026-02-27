@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a Master's student in Applied Mathematics for Finance at Paris 1 Panthéon-Sorbonne.
+
+
 <!--
 **cyriaque04/cyriaque04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
