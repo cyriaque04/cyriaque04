@@ -1,7 +1,8 @@
-## Hi there 👋
+## About me
 
-I'm a Master's student in Applied Mathematics for Finance at Paris 1 Panthéon-Sorbonne.
+Master’s student in Applied Mathematics for Finance at Université Paris 1 Panthéon-Sorbonne, interested in quantitative finance, risk modeling, and applied statistics.
 
+Work in progress.
 
 <!--
 **cyriaque04/cyriaque04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +10,6 @@ I'm a Master's student in Applied Mathematics for Finance at Paris 1 Panthéon-S
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-test
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
