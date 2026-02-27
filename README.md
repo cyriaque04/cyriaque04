@@ -17,7 +17,13 @@ This repository currently gathers a limited set of projects, including:
 
 The scope of the repository will expand over time to include more advanced projects in quantitative finance and applied mathematics.
 
+---
 
+## 📚 Background
+
+- MSc in Applied Mathematics for Finance (MAEF), Université Paris 1 Panthéon-Sorbonne  
+- BSc in Applied Mathematics and Economics (MIASHS)
+- Experience with Python for data analysis and modeling  
 
 ---
 
@@ -28,14 +34,6 @@ The scope of the repository will expand over time to include more advanced proje
 The application is designed to enforce accountability through commitment. Users create tasks and attach a monetary stake to each one. If a deadline is missed, the money is transferred to a shared pool. A ranking system is used to introduce competition and gamification among participants.
 
 The project explores motivation through commitment mechanisms and social pressure. My contribution focused on problem formulation, quantitative reasoning around incentives, and the implementation of the core logic in Python under strong time constraints.
-
----
-
-## 📚 Background
-
-- MSc in Applied Mathematics for Finance (MAEF), Université Paris 1 Panthéon-Sorbonne  
-- BSc in Applied Mathematics and Economics (MIASHS)
-- Experience with Python for data analysis and modeling  
 
 
 ---
