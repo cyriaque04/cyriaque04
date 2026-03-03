@@ -12,7 +12,7 @@ I am particularly interested in quantitative finance, risk modeling, derivative 
 This repository currently gathers a limited set of projects, including:
 
 - A hackathon project developed under time constraints  
-- A machine learning project completed as part of my Master’s program  
+- Machine learning projects completed as part of my Master’s program  
 - Personal projects exploring applied mathematics, data analysis, and modeling  
 
 The scope of the repository will expand over time to include more advanced projects in quantitative finance and applied mathematics.
